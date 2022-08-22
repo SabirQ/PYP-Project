@@ -1,0 +1,12 @@
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\bin\Debug\net6.0\PYP_Project_API.Domain.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\bin\Debug\net6.0\PYP_Project_API.Domain.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\bin\Debug\net6.0\PYP_Project_API.Domain.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\refint\PYP_Project_API.Domain.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\PYP_Project_API.Domain.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Domain\obj\Debug\net6.0\ref\PYP_Project_API.Domain.dll

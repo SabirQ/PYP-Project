@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\bin\Debug\net6.0\PYP_Project_API.Application.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\bin\Debug\net6.0\PYP_Project_API.Application.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\bin\Debug\net6.0\PYP_Project_API.Application.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\bin\Debug\net6.0\PYP_Project_API.Domain.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\bin\Debug\net6.0\PYP_Project_API.Domain.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.csproj.CopyComplete
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\refint\PYP_Project_API.Application.dll
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\PYP_Project_API.Application.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\Upload\PYP_Task\PYP_Project_API\src\Core\PYP_Project_API.Application\obj\Debug\net6.0\ref\PYP_Project_API.Application.dll
